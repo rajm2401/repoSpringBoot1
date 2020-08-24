@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.hackerrank.sample.HttpJsonDynamicUnitTest" time="0.430000" tests="2" errors="0" skipped="0" failures="1">
+    <testcase name="Get all models" classname="com.hackerrank.sample.HttpJsonDynamicUnitTest" time="0.407000"/>
+    <testcase name="Delete model by id" classname="com.hackerrank.sample.HttpJsonDynamicUnitTest" time="0.023000">
+        <failure>
+            Status code
+        </failure>
+    </testcase>
+</testsuite>
